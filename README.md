@@ -1,4 +1,4 @@
-#CMD & BAT Script Project
+# CMD & BAT Script Project
 mr.aithep@gmail.com Updated 7-2-2024 Th
 
 Tested in Windows 10
